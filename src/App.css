@@ -90,3 +90,15 @@ h4 {
       padding: 10px;
   }
 }
+
+
+
+
+
+/* Progress Bar Styles */
+.progress-bar {
+  height: 10px;
+  background-color: #4caf50; /* Progress bar color */
+  border-radius: 5px;
+  margin-top: 5px;
+}
